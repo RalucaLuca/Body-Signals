@@ -1,0 +1,162 @@
+Mon Aug 27 14:28:16 2018  [ALWAYS]: <=============================== START OF PROGRAM ===============================>
+Mon Aug 27 14:28:16 2018  [ALWAYS]: Message Logged using Direct Interface, Log level: LOG_ALWAYS
+Mon Aug 27 14:28:16 2018  [ERROR]: Message Logged using Direct Interface, Log level: LOG_ERROR
+Mon Aug 27 14:28:16 2018  [WARNING]: Message Logged using Direct Interface, Log level: LOG_WARNING
+Mon Aug 27 14:28:16 2018  [INFO]: Message Logged using Direct Interface, Log level: LOG_INFO
+Mon Aug 27 14:28:16 2018  [ALWAYS]: Message Logged using C++ Interface, Log level: LOG_ALWAYS
+Mon Aug 27 14:28:16 2018  [ERROR]: Message Logged using C++ Interface, Log level: LOG_ERROR
+Mon Aug 27 14:28:16 2018  [WARNING]: Message Logged using C++ Interface, Log level: LOG_WARNING
+Mon Aug 27 14:28:16 2018  [INFO]: Message Logged using C++ Interface, Log level: LOG_INFO
+Mon Aug 27 14:28:16 2018  [ALWAYS]: Logging ostringstream using Direct Interface
+Mon Aug 27 14:28:16 2018  [ERROR]: 
+	My Contact Details:
+	Name: Pankaj Choudhary
+	Address: Delhi, India
+	Age: 26
+
+
+Mon Aug 27 14:28:16 2018  [WARNING]: 
+	My Contact Details:
+	Name: Pankaj Choudhary
+	Address: Delhi, India
+	Age: 26
+
+
+Mon Aug 27 14:28:16 2018  [INFO]: 
+	My Contact Details:
+	Name: Pankaj Choudhary
+	Address: Delhi, India
+	Age: 26
+
+
+Mon Aug 27 14:28:16 2018  [ALWAYS]: Logging ostringstream using C++ Interface
+Mon Aug 27 14:28:16 2018  [ERROR]: 
+	My Contact Details:
+	Name: Pankaj Choudhary
+	Address: Delhi, India
+	Age: 26
+
+
+Mon Aug 27 14:28:16 2018  [WARNING]: 
+	My Contact Details:
+	Name: Pankaj Choudhary
+	Address: Delhi, India
+	Age: 26
+
+
+Mon Aug 27 14:28:16 2018  [INFO]: 
+	My Contact Details:
+	Name: Pankaj Choudhary
+	Address: Delhi, India
+	Age: 26
+
+
+Mon Aug 27 14:28:16 2018  [ALWAYS]: <=============================== END OF PROGRAM ===============================>
+Mon Aug 27 14:28:52 2018  [ALWAYS]: <=============================== START OF PROGRAM ===============================>
+Mon Aug 27 14:28:52 2018  [ALWAYS]: Message Logged using Direct Interface, Log level: LOG_ALWAYS
+Mon Aug 27 14:28:52 2018  [ERROR]: Message Logged using Direct Interface, Log level: LOG_ERROR
+Mon Aug 27 14:28:52 2018  [WARNING]: Message Logged using Direct Interface, Log level: LOG_WARNING
+Mon Aug 27 14:28:52 2018  [INFO]: Message Logged using Direct Interface, Log level: LOG_INFO
+Mon Aug 27 14:28:52 2018  [ALWAYS]: Message Logged using C++ Interface, Log level: LOG_ALWAYS
+Mon Aug 27 14:28:52 2018  [ERROR]: Message Logged using C++ Interface, Log level: LOG_ERROR
+Mon Aug 27 14:28:52 2018  [WARNING]: Message Logged using C++ Interface, Log level: LOG_WARNING
+Mon Aug 27 14:28:52 2018  [INFO]: Message Logged using C++ Interface, Log level: LOG_INFO
+Mon Aug 27 14:28:52 2018  [ALWAYS]: Logging ostringstream using Direct Interface
+Mon Aug 27 14:28:52 2018  [ERROR]: 
+	My Contact Details:
+	Name: Pankaj Choudhary
+	Address: Delhi, India
+	Age: 26
+
+
+Mon Aug 27 14:28:52 2018  [WARNING]: 
+	My Contact Details:
+	Name: Pankaj Choudhary
+	Address: Delhi, India
+	Age: 26
+
+
+Mon Aug 27 14:28:52 2018  [INFO]: 
+	My Contact Details:
+	Name: Pankaj Choudhary
+	Address: Delhi, India
+	Age: 26
+
+
+Mon Aug 27 14:28:52 2018  [ALWAYS]: Logging ostringstream using C++ Interface
+Mon Aug 27 14:28:52 2018  [ERROR]: 
+	My Contact Details:
+	Name: Pankaj Choudhary
+	Address: Delhi, India
+	Age: 26
+
+
+Mon Aug 27 14:28:52 2018  [WARNING]: 
+	My Contact Details:
+	Name: Pankaj Choudhary
+	Address: Delhi, India
+	Age: 26
+
+
+Mon Aug 27 14:28:52 2018  [INFO]: 
+	My Contact Details:
+	Name: Pankaj Choudhary
+	Address: Delhi, India
+	Age: 26
+
+
+Mon Aug 27 14:28:52 2018  [ALWAYS]: <=============================== END OF PROGRAM ===============================>
+Mon Aug 27 14:29:47 2018  [ALWAYS]: <=============================== START OF PROGRAM ===============================>
+Mon Aug 27 14:29:47 2018  [ALWAYS]: Message Logged using Direct Interface, Log level: LOG_ALWAYS
+Mon Aug 27 14:29:47 2018  [ERROR]: Message Logged using Direct Interface, Log level: LOG_ERROR
+Mon Aug 27 14:29:47 2018  [WARNING]: Message Logged using Direct Interface, Log level: LOG_WARNING
+Mon Aug 27 14:29:47 2018  [INFO]: Message Logged using Direct Interface, Log level: LOG_INFO
+Mon Aug 27 14:29:47 2018  [ALWAYS]: Message Logged using C++ Interface, Log level: LOG_ALWAYS
+Mon Aug 27 14:29:47 2018  [ERROR]: Message Logged using C++ Interface, Log level: LOG_ERROR
+Mon Aug 27 14:29:47 2018  [WARNING]: Message Logged using C++ Interface, Log level: LOG_WARNING
+Mon Aug 27 14:29:47 2018  [INFO]: Message Logged using C++ Interface, Log level: LOG_INFO
+Mon Aug 27 14:29:47 2018  [ALWAYS]: Logging ostringstream using Direct Interface
+Mon Aug 27 14:29:47 2018  [ERROR]: 
+	My Contact Details:
+	Name: Pankaj Choudhary
+	Address: Delhi, India
+	Age: 26
+
+
+Mon Aug 27 14:29:47 2018  [WARNING]: 
+	My Contact Details:
+	Name: Pankaj Choudhary
+	Address: Delhi, India
+	Age: 26
+
+
+Mon Aug 27 14:29:47 2018  [INFO]: 
+	My Contact Details:
+	Name: Pankaj Choudhary
+	Address: Delhi, India
+	Age: 26
+
+
+Mon Aug 27 14:29:47 2018  [ALWAYS]: Logging ostringstream using C++ Interface
+Mon Aug 27 14:29:47 2018  [ERROR]: 
+	My Contact Details:
+	Name: Pankaj Choudhary
+	Address: Delhi, India
+	Age: 26
+
+
+Mon Aug 27 14:29:47 2018  [WARNING]: 
+	My Contact Details:
+	Name: Pankaj Choudhary
+	Address: Delhi, India
+	Age: 26
+
+
+Mon Aug 27 14:29:47 2018  [INFO]: 
+	My Contact Details:
+	Name: Pankaj Choudhary
+	Address: Delhi, India
+	Age: 26
+
+
+Mon Aug 27 14:29:47 2018  [ALWAYS]: <=============================== END OF PROGRAM ===============================>
